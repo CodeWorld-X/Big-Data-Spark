@@ -25,9 +25,9 @@ In this task you will create a ETL by performing these steps:
 
 ### 2. Create a Python ETL script to process daily data.
 ```
-   ETL_Script_1.py   
+   ETL_Script_1.py
 ```
-
+![image](https://github.com/user-attachments/assets/beeb7b37-ee70-4839-8581-41bf9c10bb2c)
 
 
 
